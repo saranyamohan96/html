@@ -1,0 +1,50 @@
+.right-button{
+    float:right;
+}
+
+th{
+    background-color:blue;
+}
+
+.lunchGreen{
+    background-color:lawngreen;
+}
+
+.TeaGreen{
+    background-color: lawngreen;
+}
+
+#red{
+    background-color: red;
+}
+
+.time{
+    background-color:skyblue;
+}
+
+.lightBlue{
+    background-color:lightblue;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.pink{
+    background-color: pink;
+}
+
+.purple{
+    background-color: rgb(98, 46, 133);
+}
+
+.brown{
+    background-color: rgb(226, 20, 20);
+}
+
+th, td, table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}   
+
+

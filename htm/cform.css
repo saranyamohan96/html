@@ -1,0 +1,14 @@
+fieldset{
+    background-color: skyblue;
+    
+}
+textarea{
+    width: 300px;
+    height: 130px;
+}
+
+fieldset{
+    display: inline;
+    line-height: 300%;
+}
+
